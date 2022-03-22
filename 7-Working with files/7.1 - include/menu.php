@@ -7,10 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-require 'includes/menu.php';
-require 'includes/database.php';
-?>
 
+
+<?php
+
+echo ("<ul><li>Menu a</li><li>Menu b</li><li>Menu c</li></ul>");
+
+?>
 </body>
 </html>
